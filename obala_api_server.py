@@ -143,7 +143,7 @@ def obala_chat():
 
     return jsonify({
         "response": twi_reply,
-        "audio": audio_path,
+        "audio_path": audio_path,
         "usage": {
             "used": user.requests_used,
             "limit": user.request_limit,
