@@ -4,3 +4,4 @@ streamlit
 requests
 gradio_client
 pillow
+gunicorn
