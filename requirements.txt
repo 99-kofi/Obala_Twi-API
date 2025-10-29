@@ -1,0 +1,6 @@
+flask
+flask_sqlalchemy
+streamlit
+requests
+gradio_client
+pillow
