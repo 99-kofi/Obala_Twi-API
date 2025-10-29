@@ -5,7 +5,7 @@ from datetime import datetime
 from gradio_client import Client
 
 # Config
-GEMINI_API_KEY = "YOUR_GEMINI_KEY"
+GEMINI_API_KEY = "AIzaSyDpAmrLDJjDTKi7TD-IS3vqQlBAYVrUbv4"
 MODEL_NAME = "gemini-2.0-flash"
 TTS_MODEL = "Ghana-NLP/Southern-Ghana-TTS-Public"
 
